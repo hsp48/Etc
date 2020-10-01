@@ -1,0 +1,80 @@
+{
+"grandma": {
+	"heartbeat": 74,
+	"activities": 
+			[
+	"Biking",
+	"Swimming",
+			],
+	"sleepHours": 7
+}
+
+"grandpa": {
+	"heartbeat": 64,
+	"activities": ,
+	"sleepHours": 9}
+
+
+
+"john": {
+	"heartbeat": 112,
+	"activities": ,
+	"sleepHours": 5}
+
+
+"jane": {
+	"heartbeat": 152,
+	"activities": ,
+	"sleepHours": 3}
+
+
+"mom": {
+	"heartbeat": 52,
+	"activities": ,
+	"sleepHours": 5
+}
+
+"dad": {
+	"heartbeat": 89,
+	"activities": ,
+	"sleepHours": 6}
+
+
+"cusco": {
+	"heartbeat": 89,
+	"activities": ,
+	"sleepHours": 9}
+
+
+"brother": {
+	"heartbeat": 63,
+	"activities": ,
+	"sleepHours": 4}
+
+
+"sister": {
+	"heartbeat": 98,
+	"activities": ,
+	"sleepHours": 7}
+
+
+"david": {
+	"heartbeat": 100,
+	"activities": ,
+	"sleepHours": 6}
+
+
+"pocky": {
+	"heartbeat": 180,
+	"activities": ,
+	"sleepHours": 2}
+
+
+"peels": {
+	"heartbeat": 16,
+	"activities": ,
+	"sleepHours": 9}
+
+
+
+}
